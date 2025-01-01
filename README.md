@@ -1,6 +1,6 @@
 # Conditional Self-Supervised Learning for Few-Shot Classification
 
-本项目为南京大学22级智科数学建模大作业对于论文Conditional Self-Supervised Learning for Few-Shot Classification的代码复现，论文的github仓库地址为https://github.com/anyuexuan/CSS ,对代码作了略微修改以在自己的环境配置下能够运行。
+本项目为南京大学22级智科数学建模大作业对于论文Conditional Self-Supervised Learning for Few-Shot Classification的代码复现，论文的github仓库地址为https://github.com/anyuexuan/CSS ,对代码作了修改以在自己的环境配置下能够运行。
 
 ## Enviroment
 
