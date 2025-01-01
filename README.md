@@ -4,7 +4,7 @@
 
 ## Enviroment
 
-Python3,12
+Python3.12
 
 torch:2.5.1+cu121
 
